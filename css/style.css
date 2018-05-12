@@ -14,6 +14,7 @@
     background: #c5beba;
     color: #113743;
 }
+
 .button:hover {
     color: #C5001A;
 }
@@ -36,4 +37,25 @@ body {
     height: 100%;
     background: #e4e3db;
     /*background: #c5beba;*/
+}
+
+input {
+    border: 1px solid #113743;
+}
+
+.header {
+    background: #113743;
+    position: relative;
+    height: 65px;
+}
+
+h1 {
+    font-size: 35px;
+    font-family: 'Playfair Display', serif;
+    font-weight: lighter;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    text-align: center;
+    padding-top: 7px;
+
 }
